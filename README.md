@@ -1,5 +1,8 @@
 # WebScraping
 
+## Integrantes: 
+Mariana Guerrero, Sharik Bonadiez, Doriano Ojeda
+
 ## Url consultada: https://www.mercadolibre.com.co/
 
 ## Result: 
